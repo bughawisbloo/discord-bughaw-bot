@@ -2,3 +2,5 @@ discord.py
 PyNaCl
 davey
 python-dotenv
+flask
+gunicorn
