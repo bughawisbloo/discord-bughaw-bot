@@ -1,0 +1,4 @@
+discord.py
+PyNaCl
+davey
+python-dotenv
